@@ -1,2 +1,2 @@
 
-![Image of the game](Screenshot.jpg?raw=true "Title")
+![Image of the game](Screenshot.jpg?raw=true)
