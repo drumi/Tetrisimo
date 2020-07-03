@@ -1,0 +1,7 @@
+LineClearSound: http://freesound.org/people/grunz/
+Font Ankle: http://noearaujo.1001fonts.com/
+Bricks: http://opengameart.org/users/codeinfernogames Or www.codeinferno.com
+Tetris theme: https://commons.wikimedia.org/wiki/File:Tetris_theme.ogg 
+license of tetris theme: https://creativecommons.org/licenses/by-sa/3.0/deed.en
+Click is public domain
+Space is public domain
