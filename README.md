@@ -1,2 +1,2 @@
-# Screenshot:
-![Image of the game](Screenshot.jpg?raw=true)
+# Tetrisimo
+![](https://github.com/drumi/drumi/blob/main/tetris.gif)
