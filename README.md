@@ -1,2 +1,2 @@
 # Tetrisimo
-![](https://github.com/drumi/drumi/blob/main/tetris.gif)
+![](https://github.com/drumi/drumi/blob/main/images/tetris.gif)
